@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! </h1>
+<h1>#👋 Hi, I’m Anthony Gianquinto </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -18,9 +18,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/anthony-gianquinto 
-
-
-# 👋 Hi, I’m Anthony Gianquinto  
 
 🎓 **Graduate from East Carolina University** 
 *Information & Computer Technology* with a concentration in **Cybersecurity**.  
