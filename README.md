@@ -24,7 +24,7 @@
 
 🎓 **Graduate from East Carolina University** 
 *Information & Computer Technology* with a concentration in **Cybersecurity**.  
-💻 Passionate about **network security**, **ethical hacking**, and **cloud defense** — building hands-on projects that strengthen both technical depth and real-world problem-solving skills.
+💻 Passionate about **network security**, **ethical hacking**, and **cloud defense** — building hands-on projects that strengthen both technical depth and real-world            problem-solving skills.
 
 ---
 
