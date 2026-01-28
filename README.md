@@ -1,4 +1,4 @@
-<h1>#Anthony Gianquinto</h1>
+<h1>Anthony Gianquinto</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
