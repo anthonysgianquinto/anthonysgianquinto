@@ -6,7 +6,7 @@
 
 <h2>📺 Education and Certifications</h2>
 
-- [Bachelors degree in Information Computer Technology]
+- Bachelors degree in Information Computer Technology
 
 <h2>📺 Popular YouTube Videos</h2>
 
