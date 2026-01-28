@@ -12,11 +12,12 @@
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="AnthonyGianquinto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/anthony-gianquinto
+📫 **Email:** [anthonysgianquinto@gmail.com](mailto:anthonysgianquinto@gmail.com)  
 <br>
 
 ---
@@ -64,9 +65,4 @@
 - Transition into a **Network Engineer** or **SOC Analyst** role  
 - Continue developing labs and guides for others entering cybersecurity  
 
-## 🤝 Let’s Connect
-
-📫 **Email:** [anthonysgianquinto@gmail.com](mailto:anthonysgianquinto@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/anthony-gianquinto](https://linkedin.com/in/anthony-gianquinto)  
-🧑‍💻 **GitHub:** [github.com/anthonysgianquinto](https://github.com/anthonysgianquinto)
 ---
