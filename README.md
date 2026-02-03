@@ -30,8 +30,8 @@
 ## 🔐 About Me
 
 - 🧠 Intermediate **Cybersecurity enthusiast** — I bring focus and discipline to every project I take on.  
-- 🧰 Experienced with **Kali Linux**, **Active Directory**, **SIEM tools (Splunk)**, and **virtualized environments (VirtualBox, VMware)**.  
-- 🔎 Interested in **penetration testing**, **incident response**, **SOC Analyst** and **cloud security engineering**.  
+- 🧰 Experienced with **Kali Linux**, **Active Directory**, **SIEM Tools (Splunk)**, and **virtualized environments (VirtualBox, VMware)**.  
+- 🔎 Interested in **penetration Testing**, **Incident Response**, **SOC Analyst** and **Identity and Access Managment**.  
 - 🌐 Currently learning **Python for automation** and **Defensive Security Concepts** 
 
 ## 🚧 Current & Upcoming Projects
